@@ -1,0 +1,2 @@
+# 发行包走 GitHub Releases 附件，不纳入 git 跟踪
+*.zip
