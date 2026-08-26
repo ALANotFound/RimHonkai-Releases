@@ -8,6 +8,9 @@
 **⚠️ 声明：本项目为「非官方、非商业」的粉丝向同人作品，与 miHoYo（米哈游）无任何隶属或合作关系，仅用于学习与交流，完全免费、不收取任何费用。**
 **⚠️ Disclaimer: This is an UNOFFICIAL, NON-COMMERCIAL fan project. It is not affiliated with, sponsored by, or endorsed by miHoYo in any way. Completely free.**
 
+> [!WARNING]
+> **当前版本仅用于 Beta 内测。** 本次发布旨在发现并修复错误与 Bug，不保证稳定性、存档兼容性或与其他 Mod 的兼容性，也不保证中途加入现有存档后能够正常运行。请在测试前备份存档；遇到问题请通过 QQ 群或 [GitHub Issues](https://github.com/ALANotFound/RimHonkai-Releases/issues) 反馈。
+
 ## 下载 / Download
 
 请前往 [Releases](https://github.com/ALANotFound/RimHonkai-Releases/releases) 下载最新版本：
@@ -24,7 +27,7 @@
 
 - **崩坏能**既是力量也是侵蚀，你要在攫取力量与抵御侵蚀之间走钢丝；
 - 你的小人可以从凡人一步步成长为**律者**，觉醒独一无二的**权能**，甚至登临终焉；
-- 崩坏不会安分——律者入侵、终焉之茧觉醒、第 N 次崩坏会一次次考验你的据点；
+- 崩坏不会安分——律者入侵、终焉之茧的注视、第 N 次崩坏会一次次考验你的据点；
 - 从修炼、圣痕、融合战士到神之键，这是一条可以长期投入的养成线。
 
 你的殖民地将不再只是一个求生的聚落，而是一个与崩坏共舞、书写自己「崩坏史」的据点。
@@ -91,10 +94,12 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 
 ![崩坏兽](images/intro_beasts.jpg)
 
-### 律者袭击与世界冲突：崩坏找上门
-崩坏不会安分地待在殖民地之外——理、空、炎之律者会作为世界级敌人来袭，**终焉之茧觉醒**、**第 N 次崩坏**等大事件将不断考验你的殖民地。
+### 大型事件链：文明越强，崩坏越强
+当文明的光芒足够耀眼，**终焉之茧便会投下注视**。由此开启贯穿世界地图的大型事件链：第 N 次崩坏爆发，律者在派系据点与殖民地间转移，诸方势力发出求援，而你决定迎战、救援或暂不介入。
 
-![律者袭击](images/intro_invasions.jpg)
+事件链开启后，**文明适应**会随财富、人口、研究与崩坏科技持续增强敌人。与苏保持通讯，借「恒沙计划」预警和观测灾难，追寻逐火之蛾遗迹，获取并解析前文明资料，不断解锁新的科技、寻找对抗崩坏的方法，最终尝试跨越终焉。
+
+![逐火之蛾遗产](images/intro_invasions.jpg)
 
 ### 派系周旋：多方势力之间
 在多方势力间周旋：加入**天命**接取任务、召唤支援、晋升女武神，与**逆熵**、**世界蛇**既博弈也联手，最终共同对抗派系**崩坏意志**。
@@ -104,7 +109,8 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 ### 故事讲述者：你的「崩坏史」由谁讲述
 新增的叙事者会改变你整局游戏的节奏与走向：
 - **苏（观察者）**：逐火之蛾的执行者，借第二神之键执行「恒沙计划」，观测无数世界；
-- **烧鸡**：“这是一个积极阳光，健康向上的故事。”
+- **烧鸡**：“这是一个积极阳光，健康向上的故事。”；
+- **终焉·琪亚娜**：她曾亲自面对终焉，如今已获得终焉之茧的认可，成为完整的终焉之律者。她会守护这个世界，让文明拥有成长与选择未来的时间。该讲述者不会随机安排袭击及敌对威胁，适合偏好种田与建设的玩家。
 
 ![故事讲述者](images/intro_storytellers.jpg)
 
@@ -153,6 +159,7 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 | 渠道 | 链接 |
 | --- | --- |
 | QQ 群 | 1041390182 |
+| GitHub Issues | [提交问题](https://github.com/ALANotFound/RimHonkai-Releases/issues) |
 | B站 | [@山鸟鱼泽](https://b23.tv/JKnbCbV) |
 | Steam 创意工坊 | （发布后填入） |
 
@@ -174,6 +181,9 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 
 **⚠️ Disclaimer: This is an UNOFFICIAL, NON-COMMERCIAL fan project. It is not affiliated with, sponsored by, or endorsed by miHoYo in any way. Completely free.**
 
+> [!WARNING]
+> **The current release is a Beta build intended solely for public testing.** It is provided to identify and fix errors and bugs. Stability, save compatibility, compatibility with other mods, and safe addition to an existing save are not guaranteed. Back up your saves before testing, and report issues through the QQ group or [GitHub Issues](https://github.com/ALANotFound/RimHonkai-Releases/issues).
+
 ## Download
 
 Get the latest release from [Releases](https://github.com/ALANotFound/RimHonkai-Releases/releases):
@@ -190,7 +200,7 @@ RimHonkai doesn't just add a few weapons or enemies to RimWorld — it transplan
 
 - **Honkai energy** is both power and erosion; you'll walk a tightrope between seizing strength and resisting corruption;
 - Your pawns can grow from ordinary colonists into **Herrschers**, awakening unique **Authorities**, and even approach the Finality;
-- The Honkai won't stay idle — Herrscher invasions, the Final Cocoon Awakening, and the N-th Collapse will keep testing your base;
+- The Honkai won't stay idle — Herrscher invasions, the Final Cocoon's gaze, and the N-th Collapse will keep testing your base;
 - From cultivation, Stigmata and Fusion Warriors to Divine Keys, this is a long-term progression you can sink into.
 
 Your colony stops being a mere survival settlement and becomes a stronghold dancing with the Honkai, writing its own "Honkai history".
@@ -258,10 +268,12 @@ Honkai beasts march across scorched earth — lesser swarms like a tide, the Hon
 
 ![崩坏兽](images/intro_beasts.jpg)
 
-### Herrscher Invasions & World Conflicts: The Honkai Comes for You
-The Honkai will not stay outside — the Herrschers of Reason, Void and Flame attack as world-level enemies, and events like the **Final Cocoon Awakening** and **the N-th Collapse** will keep testing your colony.
+### Major Event Chain: The Stronger Civilization Grows, the Stronger Honkai Becomes
+When civilization shines brightly enough, **the Final Cocoon turns its gaze upon this world**. A world-spanning event chain begins: the N-th Collapse erupts, Herrschers move between faction settlements and player colonies, powers call for aid, and you choose whether to confront them, intervene, or stand aside.
 
-![Herrscher Invasions](images/intro_invasions.jpg)
+Once the chain begins, **Civilization Adaptation** strengthens enemies alongside your wealth, population, research, and Honkai technology. Stay in contact with Su, use Project Valuka to anticipate disasters, seek out Fire Moth ruins, analyze archives from the Previous Era, and unlock new technologies—always searching for a way to resist the Honkai and, at last, cross the Finality.
+
+![Legacy of Fire Moth](images/intro_invasions.jpg)
 
 ### Faction Politics: Between Great Powers
 Navigate between factions: join **Schicksal** to take on missions, call in support and promote Valkyries, both contesting and allying with **Anti-Entropy** and **World Serpent**, and ultimately standing together against the faction of the **Honkai Will**.
@@ -271,7 +283,8 @@ Navigate between factions: join **Schicksal** to take on missions, call in suppo
 ### Storytellers: Who Narrates Your Honkai History
 New storytellers change the pace and direction of your entire game:
 - **Su (the Observer)**: an executor of Valuka, observing countless worlds via the Second Divine Key under the "Project Ember";
-- **Shaoji**: another storyteller with a distinct style.
+- **Shaoji**: another storyteller with a distinct style;
+- **Finality · Kiana**: she once faced Finality herself and has now earned the Final Cocoon's recognition as the complete Herrscher of Finality. She protects this world and gives civilization time to grow and choose its future. This storyteller does not schedule random raids or hostile threats, making her suited to farming and construction-focused games.
 
 ![故事讲述者](images/intro_storytellers.jpg)
 
@@ -320,6 +333,7 @@ Soulium-based pseudo-life tech builds a defense line against erosion — the mod
 | Channel | Link |
 | --- | --- |
 | QQ group | 1041390182 |
+| GitHub Issues | [Report an issue](https://github.com/ALANotFound/RimHonkai-Releases/issues) |
 | Bilibili | [@山鸟鱼泽](https://b23.tv/JKnbCbV) |
 | Steam Workshop | (to be filled after release) |
 
