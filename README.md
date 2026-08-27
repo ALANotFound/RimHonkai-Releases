@@ -161,7 +161,7 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 | QQ 群 | 1041390182 |
 | GitHub Issues | [提交问题](https://github.com/ALANotFound/RimHonkai-Releases/issues) |
 | B站 | [@山鸟鱼泽](https://b23.tv/JKnbCbV) |
-| Steam 创意工坊 | （发布后填入） |
+| Steam 创意工坊 | [订阅边缘崩坏 RimHonkai](https://steamcommunity.com/sharedfiles/filedetails/?id=3790844690) |
 
 ## 版权与致谢
 
