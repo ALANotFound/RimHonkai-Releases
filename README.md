@@ -163,6 +163,10 @@ Mod 新增了大量功能建筑，覆盖能源、生命、空间与算力：
 | B站 | [@山鸟鱼泽](https://b23.tv/JKnbCbV) |
 | Steam 创意工坊 | [订阅边缘崩坏 RimHonkai](https://steamcommunity.com/sharedfiles/filedetails/?id=3790844690) |
 
+## 自愿支持开发
+
+本 Mod 由开发者一人制作并持续更新。如果你喜欢这个项目，可以通过[爱发电](https://afdian.com/a/rimhonkai)自愿支持。Mod 始终免费，支持与否不影响下载、更新或游玩。
+
 ## 版权与致谢
 
 - 「崩坏 / Honkai」为 miHoYo 注册商标，本作为致敬式同人产物；
@@ -336,6 +340,10 @@ Soulium-based pseudo-life tech builds a defense line against erosion — the mod
 | GitHub Issues | [Report an issue](https://github.com/ALANotFound/RimHonkai-Releases/issues) |
 | Bilibili | [@山鸟鱼泽](https://b23.tv/JKnbCbV) |
 | Steam Workshop | (to be filled after release) |
+
+## Optional Support
+
+RimHonkai is made and updated by one developer. If you enjoy it, you can [support the project on Afdian](https://afdian.com/a/rimhonkai). The mod remains free; support does not affect access or updates.
 
 ## License & Credits
 
